@@ -1,0 +1,10 @@
+c:\users\lefiya\source\repos\Lefiya\Lefiya\obj\Debug\Lefiya.csprojResolveAssemblyReference.cache
+c:\users\lefiya\source\repos\Lefiya\Lefiya\obj\Debug\Lefiya.Properties.Resources.resources
+c:\users\lefiya\source\repos\Lefiya\Lefiya\obj\Debug\Lefiya.csproj.GenerateResource.cache
+c:\users\lefiya\source\repos\Lefiya\Lefiya\obj\Debug\Lefiya.csproj.CoreCompileInputs.cache
+c:\users\lefiya\source\repos\Lefiya\Lefiya\bin\Debug\Lefiya.exe
+c:\users\lefiya\source\repos\Lefiya\Lefiya\bin\Debug\Lefiya.pdb
+c:\users\lefiya\source\repos\Lefiya\Lefiya\obj\Debug\Lefiya.frmMain.resources
+c:\users\lefiya\source\repos\Lefiya\Lefiya\obj\Debug\Lefiya.exe
+c:\users\lefiya\source\repos\Lefiya\Lefiya\obj\Debug\Lefiya.pdb
+C:\Users\Lefiya\source\repos\Lefiya\Lefiya\bin\Debug\Lefiya.exe.config
